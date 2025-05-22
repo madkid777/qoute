@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(252, 232, 207);
+}
+.font-main {
+  font-family: "Playwrite DK Loopet", cursive;
+}
+.font-second {
+  font-family: "Playwrite MX Guides", cursive;
+}
+h1 {
+  font-size: 5rem;
+}
